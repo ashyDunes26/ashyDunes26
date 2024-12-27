@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ashyDunes26
 - 👀 I’m interested in reading xianxia, playing homescapes, writing Python codes, mathematics, and machine learning
 - 🌱 I’m currently learning "how to write code like a professional software engineer". (I have no SE background)
-- 📫 You can reach me at [Linkedin]([readme.com](https://www.linkedin.com/in/saiyer87/))
+- 📫 You can reach me at [Linkedin](https://www.linkedin.com/in/saiyer87/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a mathematics lover who loves coding.  
 
